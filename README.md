@@ -155,8 +155,8 @@ VITE_CDN_BASE_URL=https://your-cdn-domain.com
 
 1. **Build the application**
    ```bash
-npm run build
-```
+   npm run build
+   ```
 
 2. **Deploy the `dist` folder** to your preferred hosting service:
    - Vercel
